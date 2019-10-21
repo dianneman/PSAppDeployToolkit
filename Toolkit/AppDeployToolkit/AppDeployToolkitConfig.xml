@@ -504,7 +504,7 @@
 		<RestartPrompt_Title>Herstart Nodig</RestartPrompt_Title>
 		<RestartPrompt_Message>Om de installatie te voltooien is een herstart nodig.</RestartPrompt_Message>
 		<RestartPrompt_MessageTime>Gelieve je werk op te slaan en binnen de toegestane termijn de computer te herstarten</RestartPrompt_MessageTime>
-		<RestartPrompt_MessageRestart>Wanneer de teller op nul staat zal je computer harstarten</RestartPrompt_MessageRestart>
+		<RestartPrompt_MessageRestart>De computer zal herstarten als de teller op nul staat</RestartPrompt_MessageRestart>
 		<RestartPrompt_TimeRemaining>Resterende tijd:</RestartPrompt_TimeRemaining>
 		<RestartPrompt_ButtonRestartLater>Herstart Later</RestartPrompt_ButtonRestartLater>
 		<RestartPrompt_ButtonRestartNow>Herstart Nu</RestartPrompt_ButtonRestartNow>
